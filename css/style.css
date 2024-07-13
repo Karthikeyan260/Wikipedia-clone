@@ -1,0 +1,46 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+
+
+p {
+  font-size: 1.6rem;
+  line-height: 1.5;
+}
+
+img {
+  width: 30%;
+}
+
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+
+form {
+  position: relative;
+}
+
+button {
+  position: absolute;
+  right: 1rem;
+  top: 1rem;
+  border: none;
+  outline: none;
+}
+
+form i {
+  font-size: 1.6rem;
+  color: blue;
+}
+
+.hide {
+  display: none;
+}
